@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "915982839381",
+    "project_id": "pahttayninh",
+    "storage_bucket": "pahttayninh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915982839381:android:b1001e6b398535159deedc",
+        "android_client_info": {
+          "package_name": "com.dichvu.jupviec.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625832227097-urcnfquekqv1gum38539jnsfuje6opdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dichvu.jupviec.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "625832227097-jh0l29b0m6ajo2u52672g6kvu1cpvf3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dichvu.jupviec.app",
+            "certificate_hash": "f4fbb5a8a1db69a0ce0c2ffd73f2c478ae0f7adc"
+          }
+        },
+        {
+          "client_id": "625832227097-fpfku0ldkt1pnjl63b7p9vda18ejdt3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dichvu.jupviec.app",
+            "certificate_hash": "d57c1bf5c8216fe56e998703ef3b873ceda4d19b"
+          }
+        },
+        {
+          "client_id": "625832227097-pj5al95ruisjd21bl78qnhdrjkrj7iks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlPtT94bk0iSREba1VrWqTPVN7CyA5UEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915982839381-g6mb1vjdn8rhhlt4d6j9lhkuvbkrsqrp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "915982839381-2qe2a3uf68gakv0q3dkjvftm4i7pj5d7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.paht.tayninh.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

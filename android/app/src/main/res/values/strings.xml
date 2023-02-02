@@ -1,0 +1,7 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">0</string>
+    <string name="app_name">JupViec</string>
+    <string name="facebook_app_id">817864535809752</string>
+    <string name="facebook_client_token">XXXXXXX</string>
+    <string name="fb_login_protocol_scheme">fb817864535809752</string>
+</resources>
